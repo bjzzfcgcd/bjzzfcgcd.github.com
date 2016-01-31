@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[北京珍珠翡翠工厂店]]></title>
+  <subtitle><![CDATA[诚信经营 放心消费]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://feicui.warmlife.me/"/>
+  <updated>2016-01-31T04:42:57.859Z</updated>
+  <id>http://feicui.warmlife.me/</id>
+  
+  <author>
+    <name><![CDATA[北京珍珠翡翠工厂店]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[天然翡翠绿镯]]></title>
+    <link href="http://feicui.warmlife.me/2015/feicui1/"/>
+    <id>http://feicui.warmlife.me/2015/feicui1/</id>
+    <published>2015-12-07T11:56:23.000Z</published>
+    <updated>2016-01-31T04:42:57.859Z</updated>
+    <content type="html"><![CDATA[<p><img src="/img/feicui/1/1.jpg" alt="翡翠镯"></p>
+<p><img src="/img/feicui/1/1.jpg" alt="翡翠镯"></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="/img/feicui/1/1.jpg" alt="翡翠镯"></p>
+<p><img src="/img/feicui/1/1.jpg" alt="翡翠镯"></p>
+]]>
+    </summary>
+    
+      <category term="翡翠" scheme="http://feicui.warmlife.me/categories/%E7%BF%A1%E7%BF%A0/"/>
+    
+  </entry>
+  
+</feed>
