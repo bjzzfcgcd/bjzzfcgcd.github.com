@@ -4,7 +4,7 @@
   <subtitle><![CDATA[诚信经营 放心消费]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://feicui.warmlife.me/"/>
-  <updated>2016-01-31T09:02:39.001Z</updated>
+  <updated>2016-01-31T15:10:24.248Z</updated>
   <id>http://feicui.warmlife.me/</id>
   
   <author>
@@ -15,11 +15,28 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[金镶玉生肖系列-子鼠]]></title>
+    <link href="http://feicui.warmlife.me/2016/yu-1/"/>
+    <id>http://feicui.warmlife.me/2016/yu-1/</id>
+    <published>2016-01-31T05:49:44.000Z</published>
+    <updated>2016-01-31T15:10:24.248Z</updated>
+    <content type="html"><![CDATA[<p><img src="/img/yu/1/1.png" alt=""></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="/img/yu/1/1.png" alt=""></p>
+]]>
+    </summary>
+    
+      <category term="玉" scheme="http://feicui.warmlife.me/categories/%E7%8E%89/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[金镶玉吊坠，一对]]></title>
     <link href="http://feicui.warmlife.me/2016/feicui2/"/>
     <id>http://feicui.warmlife.me/2016/feicui2/</id>
     <published>2016-01-31T05:49:44.000Z</published>
-    <updated>2016-01-31T09:02:39.001Z</updated>
+    <updated>2016-01-31T15:09:44.363Z</updated>
     <content type="html"><![CDATA[<p><img src="/img/feicui/2/1.png" alt=""></p>
 <a id="more"></a>
 <p><strong>玉石的保养</strong></p>
@@ -33,7 +50,7 @@
     
     </summary>
     
-      <category term="金镶玉" scheme="http://feicui.warmlife.me/categories/%E9%87%91%E9%95%B6%E7%8E%89/"/>
+      <category term="玉" scheme="http://feicui.warmlife.me/categories/%E7%8E%89/"/>
     
   </entry>
   
