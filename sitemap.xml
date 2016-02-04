@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://feicui.warmlife.me/pingjia/index.html</loc>
+    <lastmod>2016-02-04T16:53:58.980Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://feicui.warmlife.me/2016/feicui-15/</loc>
     <lastmod>2016-02-04T16:37:04.943Z</lastmod>
   </url>
@@ -74,11 +79,6 @@
   <url>
     <loc>http://feicui.warmlife.me/categories/index.html</loc>
     <lastmod>2016-02-04T15:46:18.073Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://feicui.warmlife.me/pingjia/index.html</loc>
-    <lastmod>2016-02-04T09:53:55.028Z</lastmod>
   </url>
   
   <url>
