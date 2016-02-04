@@ -2,6 +2,81 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://feicui.warmlife.me/2016/feicui-15/</loc>
+    <lastmod>2016-02-04T16:37:04.943Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://feicui.warmlife.me/2016/feicui-16/</loc>
+    <lastmod>2016-02-04T16:37:04.937Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://feicui.warmlife.me/2016/feicui-17/</loc>
+    <lastmod>2016-02-04T16:37:04.933Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://feicui.warmlife.me/2016/feicui-18/</loc>
+    <lastmod>2016-02-04T16:37:04.930Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://feicui.warmlife.me/2016/feicui-9/</loc>
+    <lastmod>2016-02-04T16:37:04.927Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://feicui.warmlife.me/2016/feicui-10/</loc>
+    <lastmod>2016-02-04T16:37:04.923Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://feicui.warmlife.me/2016/feicui-11/</loc>
+    <lastmod>2016-02-04T16:37:04.919Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://feicui.warmlife.me/2016/feicui-14/</loc>
+    <lastmod>2016-02-04T16:36:59.391Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://feicui.warmlife.me/2016/feicui-12/</loc>
+    <lastmod>2016-02-04T16:35:08.876Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://feicui.warmlife.me/2016/feicui-13/</loc>
+    <lastmod>2016-02-04T16:34:41.801Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://feicui.warmlife.me/2016/feicui-6/</loc>
+    <lastmod>2016-02-04T16:34:16.803Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://feicui.warmlife.me/2016/feicui-5/</loc>
+    <lastmod>2016-02-04T16:34:05.185Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://feicui.warmlife.me/2016/feicui-7/</loc>
+    <lastmod>2016-02-04T16:33:34.448Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://feicui.warmlife.me/2016/feicui-8/</loc>
+    <lastmod>2016-02-04T16:33:17.646Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://feicui.warmlife.me/categories/index.html</loc>
+    <lastmod>2016-02-04T15:46:18.073Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://feicui.warmlife.me/pingjia/index.html</loc>
     <lastmod>2016-02-04T09:53:55.028Z</lastmod>
   </url>
@@ -29,76 +104,6 @@
   <url>
     <loc>http://feicui.warmlife.me/2016/feicui-4/</loc>
     <lastmod>2016-02-03T06:27:08.966Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://feicui.warmlife.me/2016/feicui-13/</loc>
-    <lastmod>2016-02-03T05:53:05.679Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://feicui.warmlife.me/2016/feicui-18/</loc>
-    <lastmod>2016-02-03T05:43:12.924Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://feicui.warmlife.me/2016/feicui-17/</loc>
-    <lastmod>2016-02-03T05:43:12.922Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://feicui.warmlife.me/2016/feicui-16/</loc>
-    <lastmod>2016-02-03T05:43:12.920Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://feicui.warmlife.me/2016/feicui-15/</loc>
-    <lastmod>2016-02-03T05:43:12.918Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://feicui.warmlife.me/2016/feicui-14/</loc>
-    <lastmod>2016-02-03T05:43:12.916Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://feicui.warmlife.me/2016/feicui-12/</loc>
-    <lastmod>2016-02-03T05:43:12.914Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://feicui.warmlife.me/2016/feicui-11/</loc>
-    <lastmod>2016-02-03T05:43:12.912Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://feicui.warmlife.me/2016/feicui-10/</loc>
-    <lastmod>2016-02-03T05:43:12.910Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://feicui.warmlife.me/2016/feicui-9/</loc>
-    <lastmod>2016-02-03T05:43:12.907Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://feicui.warmlife.me/2016/feicui-8/</loc>
-    <lastmod>2016-02-03T05:43:12.904Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://feicui.warmlife.me/2016/feicui-7/</loc>
-    <lastmod>2016-02-03T05:43:12.902Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://feicui.warmlife.me/2016/feicui-6/</loc>
-    <lastmod>2016-02-03T05:36:19.169Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://feicui.warmlife.me/2016/feicui-5/</loc>
-    <lastmod>2016-02-03T05:36:11.918Z</lastmod>
   </url>
   
   <url>
